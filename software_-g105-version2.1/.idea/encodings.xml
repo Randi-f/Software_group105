@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/UI/FoodChoicePanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/UI/FoodFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/UI/LoginBooking.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/UI/LoginName.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/UI/LoginScan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/UI/finalPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/controller/FliInfoController.java" charset="GBK" />
+  </component>
+</project>
