@@ -1,0 +1,2960 @@
+[
+  {
+    "arrival": "Shanghai",
+    "arrivalTime": 1665208415000,
+    "counterNo": "F",
+    "departure": "Beijing",
+    "departureTime": 1665201215000,
+    "flightNo": "VS026",
+    "gate": "A22",
+    "onAirMeals": [],
+    "onAirSeats": [
+      {
+        "col": 3,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 1,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 2,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 1,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 2,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 3,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 1,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 2,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 2,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 2,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 2,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 4,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 2,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 4,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 1,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 3,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 3,
+        "special": "normal",
+        "state": 1,
+        "type": "club"
+      },
+      {
+        "col": 2,
+        "row": 1,
+        "special": "normal",
+        "state": 1,
+        "type": "first"
+      },
+      {
+        "col": 2,
+        "row": 6,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 2,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 4,
+        "special": "normal",
+        "state": 1,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 3,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 2,
+        "special": "normal",
+        "state": 1,
+        "type": "club"
+      },
+      {
+        "col": 4,
+        "row": 4,
+        "special": "normal",
+        "state": 1,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 1,
+        "special": "normal",
+        "state": 1,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 5,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 4,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 5,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 1,
+        "special": "normal",
+        "state": 1,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 5,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 6,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 1,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 7,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 8,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 7,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 9,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 1,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 10,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 3,
+        "special": "normal",
+        "state": 1,
+        "type": "club"
+      },
+      {
+        "col": 4,
+        "row": 2,
+        "special": "normal",
+        "state": 1,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 1,
+        "special": "normal",
+        "state": 1,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 1,
+        "special": "normal",
+        "state": 1,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 1,
+        "special": "normal",
+        "state": 1,
+        "type": "first"
+      },
+      {
+        "col": 2,
+        "row": 1,
+        "special": "normal",
+        "state": 1,
+        "type": "club"
+      },
+      {
+        "col": 4,
+        "row": 1,
+        "special": "normal",
+        "state": 1,
+        "type": "first"
+      },
+      {
+        "col": 4,
+        "row": 2,
+        "special": "normal",
+        "state": 1,
+        "type": "first"
+      },
+      {
+        "col": 4,
+        "row": 3,
+        "special": "normal",
+        "state": 1,
+        "type": "first"
+      },
+      {
+        "col": 3,
+        "row": 5,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 6,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 2,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 7,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 5,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 8,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 7,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 8,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 8,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 8,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 7,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 8,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 8,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 7,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 2,
+        "special": "normal",
+        "state": 1,
+        "type": "first"
+      },
+      {
+        "col": 4,
+        "row": 5,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 4,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 6,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 4,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 6,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 3,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 1,
+        "special": "normal",
+        "state": 1,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 2,
+        "special": "normal",
+        "state": 1,
+        "type": "club"
+      }
+    ],
+    "plane": "12",
+    "state": 0
+  },
+  {
+    "arrival": "Shanghai",
+    "arrivalTime": 1665208415000,
+    "departure": "Beijing",
+    "departureTime": 1665201215000,
+    "flightNo": "UA904",
+    "onAirMeals": [],
+    "onAirSeats": [
+      {
+        "col": 1,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 2,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 4,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 1,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 2,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 3,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 4,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 1,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 2,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 3,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 4,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 1,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 2,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 4,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 2,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 4,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 2,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 4,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 2,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 4,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 2,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 4,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 2,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 4,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 2,
+        "special": "",
+        "state": 1,
+        "type": "club"
+      }
+    ],
+    "plane": "12",
+    "state": 0
+  },
+  {
+    "arrival": "Shanghai",
+    "arrivalTime": 1665208415000,
+    "departure": "Beijing",
+    "departureTime": 1665201215000,
+    "flightNo": "TS122",
+    "onAirMeals": [],
+    "onAirSeats": [],
+    "plane": "12",
+    "state": 0
+  },
+  {
+    "arrival": "Shanghai",
+    "arrivalTime": 1665208415000,
+    "departure": "Beijing",
+    "departureTime": 1665201215000,
+    "flightNo": "WS003",
+    "onAirMeals": [],
+    "onAirSeats": [
+      {
+        "col": 1,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 8,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 9,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 10,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 11,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 8,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 9,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 10,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 11,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 8,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 9,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 10,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 11,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 8,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 9,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 10,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 11,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 8,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 9,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 10,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 11,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 8,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 9,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 10,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 11,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 8,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 9,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 10,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 11,
+        "row": 7,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 8,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 9,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 10,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 11,
+        "row": 8,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 8,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 9,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 10,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 11,
+        "row": 9,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 8,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 9,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 10,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 11,
+        "row": 10,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 11,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 11,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 11,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 11,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 11,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 11,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 11,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 8,
+        "row": 11,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 9,
+        "row": 11,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 10,
+        "row": 11,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 11,
+        "row": 11,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 12,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 2,
+        "row": 12,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 3,
+        "row": 12,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 4,
+        "row": 12,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 5,
+        "row": 12,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 6,
+        "row": 12,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 7,
+        "row": 12,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 8,
+        "row": 12,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 9,
+        "row": 12,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 10,
+        "row": 12,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 11,
+        "row": 12,
+        "special": "normal",
+        "state": 0,
+        "type": "economy"
+      },
+      {
+        "col": 1,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 2,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 4,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 1,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 2,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 3,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 4,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 1,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 2,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 3,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 4,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "first"
+      },
+      {
+        "col": 2,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 4,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 1,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 2,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 4,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 2,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 2,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 4,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 3,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 2,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 4,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 4,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 2,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 4,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 5,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 2,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 4,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 5,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 6,
+        "row": 6,
+        "special": "normal",
+        "state": 0,
+        "type": "club"
+      },
+      {
+        "col": 1,
+        "row": 1,
+        "special": "normal",
+        "state": 1,
+        "type": "club"
+      },
+      {
+        "col": 3,
+        "row": 1,
+        "special": "normal",
+        "state": 1,
+        "type": "first"
+      }
+    ],
+    "plane": "111",
+    "state": 0
+  },
+  {
+    "arrival": "Shanghai",
+    "arrivalTime": 1665208415000,
+    "departure": "Beijing",
+    "departureTime": 1665191215000,
+    "flightNo": "AA6913",
+    "onAirMeals": [],
+    "onAirSeats": [],
+    "plane": "111",
+    "state": 0
+  }
+]

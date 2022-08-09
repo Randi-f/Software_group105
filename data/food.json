@@ -1,0 +1,8 @@
+[{"name": "potato chips","introduction": "good","type": "snacks","price": 30,"state": "1"},
+  {"name": "soda biscuit","introduction": "good","type": "snacks","price": 30,"state": "1"},
+  {"name": "cola","introduction": "good","type": "drink","price": 30,"state": "1"},
+  {"name": "red tea","introduction": "good","type": "drink","price": 30,"state": "1"},
+  {"name": "red tea","introduction": "good","type": "delicacy","price": 30,"state": "1"},
+  {"name": "standard","introduction": "good","type": "free","price": 0,"state": "1"},
+  {"name": "vegetarian","introduction": "good","type": "free","price": 0,"state": "1"},
+  {"name": "halal","introduction": "good","type": "free","price": 0,"state": "1"}]
